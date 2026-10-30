@@ -1,8 +1,10 @@
-# Analyse des profils biométriques (Diabète) par réduction de dimensionnalité
+# Analyse des profils biométriques par réduction de dimensionnalité
 
 ## 🎯 Problématique
 Face à un jeu de données médicales comportant de multiples indicateurs physiologiques (glucose, IMC, insuline, âge, etc.), l'objectif de ce projet est exploratoire. Il cherche à répondre à la question suivante : 
 **Peut-on résumer le profil clinique d'un patient en deux indicateurs globaux (composantes) tout en conservant l'essentiel de la variance, et ces axes permettent-ils d'isoler naturellement les patients diabétiques ?**
+
+Attention : il s'agit d'un jeu de données synthétique !
 
 ## ⚙️ Méthodologie
 Ce projet met en œuvre une démarche de Machine Learning non supervisé pour analyser les structures cachées des données médicales :
